@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-    <!-- Created by Sri Sahith Lakkaraju -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,7 +21,7 @@
             <a href="recommendedPicks.php" class="button"> Recommended Picks </a>
             <a href="favorites.html" class="button"> Favorites List </a>
             <a href="stores.html" class="button"> Book Stores Near Me </a>
-            <a href="feedback.php" class="button"> Feedback </a>
+            <a href="login.html" class="button"> Signin / Signup </a>
         </nav>
     </div>
 

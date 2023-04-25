@@ -1,4 +1,4 @@
-// Created by Group-2
+
 // Function to get the selected books
 function getSelected() {
   //Reference the Table.
